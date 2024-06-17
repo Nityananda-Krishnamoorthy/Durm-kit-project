@@ -42,5 +42,5 @@ To run the drum kit locally, follow these steps:
    ```bash
    cd Durm-kit-project
 3. Open the index.html file in your web browser:
-  ```bash
-  open index.html
+   ```bash
+   open index.html
