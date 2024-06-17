@@ -20,10 +20,11 @@ Check out the live demo [here](https://nityananda-krishnamoorthy.github.io/Durm-
 
 ## Usage
 
-- Click on the drum buttons or press the corresponding keys to play the sounds.
-- The keys are mapped as follows:
+1. Click on the drum buttons or press the corresponding keys to play the sounds.
+2. The keys are mapped as follows:
+  
 * w - Tom 1
-*a - Tom 2
+* a - Tom 2
 * s - Tom 3
 * d - Tom 4
 * j - Snare
@@ -40,9 +41,6 @@ To run the drum kit locally, follow these steps:
 2. Navigate to the project directory:
    ```bash
    cd Durm-kit-project
-3.Open the index.html file in your web browser:
+3. Open the index.html file in your web browser:
   ```bash
   open index.html
-
-
-
